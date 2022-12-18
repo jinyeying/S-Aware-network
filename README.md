@@ -15,9 +15,9 @@ It becomes more challenging when the input image contains shadows or specular hi
 ## Datasets
 ### Intrinsic Image Decomposition
 
-1.[IIW](<https://labelmaterial.s3.amazonaws.com/release/iiw-dataset-release-0.zip>) 
+1.[IIW](<https://labelmaterial.s3.amazonaws.com/release/iiw-dataset-release-0.zip>) OR [IIW](http://opensurfaces.cs.cornell.edu/publications/intrinsic/)
 
-2.[MIT](https://github.com/davidstutz/grosse2009-intrinsic-images)
+2.[MIT](https://github.com/davidstutz/grosse2009-intrinsic-images) OR [MIT](http://www.cs.toronto.edu/~rgrosse/intrinsic/downloads.html)
 
 3.[MPI-Sintel](https://www.dropbox.com/s/4p6hlwsv2bv9vgp/MPI_300.zip?dl=0)
 
