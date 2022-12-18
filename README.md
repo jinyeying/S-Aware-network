@@ -12,6 +12,32 @@ This is an implementation of the following paper.
 Estimating reflectance layer from a single image is a challenging task. 
 It becomes more challenging when the input image contains shadows or specular highlights, which often render an inaccurate estimate of the reflectance layer. Therefore, we propose a two-stage learning method, including reflectance guidance and a Shadow/Specular-Aware (S-Aware) network to tackle the problem. In the first stage, an initial reflectance layer free from shadows and specularities is obtained with the constraint of novel losses that are guided by prior-based shadow-free and specular-free images. To further enforce the reflectance layer to be independent from shadows and specularities in the second-stage refinement, we introduce an S-Aware network that distinguishes the reflectance image from the input image. Our network employs a classifier to categorize shadow/shadow-free, specular/specular-free classes, enabling the activation features to function as attention maps that focus on shadow/specular regions. Our quantitative and qualitative evaluations show that our method outperforms the state-of-the-art methods in the reflectance layer estimation that is free from shadows and specularities.
 
+## Datasets
+### Intrinsic Image Decomposition
+
+1.[IIW](<https://labelmaterial.s3.amazonaws.com/release/iiw-dataset-release-0.zip>) 
+
+2.[MIT](https://github.com/davidstutz/grosse2009-intrinsic-images)
+
+3.[MPI-Sintel](https://www.dropbox.com/s/4p6hlwsv2bv9vgp/MPI_300.zip?dl=0)
+
+4.[ShapeNet](https://www.dropbox.com/s/vzi9cak5kr2obeq/ShapeNet-intrinsic-car-modified.zip?dl=0)
+(https://github.com/JannerM/intrinsics-network)
+
+
+### Shadow Removal
+
+1.SRD ([train](https://drive.google.com/file/d/1W8vBRJYDG9imMgr9I2XaA13tlFIEHOjS/view) [BaiduNetdisk](https://pan.baidu.com/s/1mj3BoRQ) and [test](http://www.shengfenghe.com/publications/)).
+
+2.[AISTD](https://www3.cs.stonybrook.edu/~cvl/projects/SID/index.html) 
+
+### Specularity/highlight Removal
+1.[Specularity separation](https://www.dropbox.com/s/awk9fa00xvfeqmf/specular%2Bdataset.zip?dl=0)
+
+2.[ShapeNet]
+
+Renjiao Yi, Ping Tan and Stephen Lin, "Leveraging Multi-view Image Sets for Unsupervised Intrinsic Image Decomposition and Highlight Separation", AAAI 2020.
+
 ## Specular-Free Loss
 Get the following Figure 6 in the main paper,
 <p align="left">
