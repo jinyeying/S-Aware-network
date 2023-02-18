@@ -26,7 +26,7 @@ This is an implementation of the following paper.
 
 1.SRD ([train](https://drive.google.com/file/d/1W8vBRJYDG9imMgr9I2XaA13tlFIEHOjS/view) [BaiduNetdisk](https://pan.baidu.com/s/1mj3BoRQ) and [test](http://www.shengfenghe.com/publications/)).
 
-2.[AISTD](https://www3.cs.stonybrook.edu/~cvl/projects/SID/index.html) 
+2.[USR](https://drive.google.com/file/d/1PPAX0W4eyfn1cUrb2aBefnbrmhB1htoJ/view) 
 
 ### Specularity/highlight Removal
 1.[Specularity separation](https://www.dropbox.com/s/awk9fa00xvfeqmf/specular%2Bdataset.zip?dl=0)
