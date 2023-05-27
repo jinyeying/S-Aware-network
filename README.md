@@ -47,7 +47,7 @@ demo_spfree_release.m
 
 ### Citation
 If this work is useful for your research, please cite our paper. 
-```
+```BibTeX
 @article{jin2022estimating,
   title={Estimating Reflectance Layer from A Single Image: Integrating Reflectance Guidance and Shadow/Specular Aware Learning},
   author={Jin, Yeying and Li, Ruoteng and Yang, Wenhan and Tan, Robby T},
