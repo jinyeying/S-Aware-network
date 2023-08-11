@@ -12,7 +12,7 @@ This is an implementation of the following paper.
 ## Datasets
 ### Intrinsic Image Decomposition
 
-1.[IIW](<https://labelmaterial.s3.amazonaws.com/release/iiw-dataset-release-0.zip>) OR [IIW](http://opensurfaces.cs.cornell.edu/publications/intrinsic/)
+1.[IIW_Download](<https://labelmaterial.s3.amazonaws.com/release/iiw-dataset-release-0.zip>) OR [IIW](http://opensurfaces.cs.cornell.edu/publications/intrinsic/)
 
 2.[MIT](https://github.com/davidstutz/grosse2009-intrinsic-images) OR [MIT](http://www.cs.toronto.edu/~rgrosse/intrinsic/downloads.html)
 
