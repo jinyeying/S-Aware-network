@@ -45,6 +45,13 @@ Get the following Figure 6 in the main paper,
 demo_spfree_release.m
 ```
 
+## License
+The code and models in this repository are licensed under the MIT License for academic and other non-commercial uses.<br>
+For commercial use of the code and models, separate commercial licensing is available. Please contact:
+- Yeying Jin (jinyeying@u.nus.edu)
+- Robby T. Tan (tanrobby@gmail.com)
+- Jonathan Tan (jonathan_tano@nus.edu.sg)
+
 ### Citation
 If this work is useful for your research, please cite our paper. 
 ```BibTeX
